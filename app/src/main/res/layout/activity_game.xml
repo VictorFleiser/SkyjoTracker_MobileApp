@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+<androidx.constraintlayout.widget.ConstraintLayout
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/bg"
+    tools:context=".GameActivity">
+
+    <!-- Info Row -->
+    <LinearLayout
+        android:id="@+id/player_info_row"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="16dp"
+        android:layout_marginStart="4dp"
+        android:layout_marginEnd="4dp"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/players_info_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Players Info"
+            android:layout_marginEnd="4dp"/>
+
+        <TextView
+            android:id="@+id/active_player_text"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="0.8"
+            android:text="Player: Name"
+            android:textColor="@color/white"
+            android:textSize="18sp"
+            android:layout_marginEnd="4dp"/>
+
+        <Button
+            android:id="@+id/cards_info_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cards Info"/>
+    </LinearLayout>
+
+<!--    <TextView-->
+<!--        android:id="@+id/active_player_name"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Active Player: Name"-->
+<!--        android:textColor="@color/white"-->
+<!--        android:textSize="18sp"-->
+<!--        app:layout_constraintTop_toTopOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        android:layout_marginTop="16dp" />-->
+
+    <!-- Deck Grid -->
+    <GridLayout
+        android:id="@+id/deck_grid"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:columnCount="4"
+        android:rowCount="3"
+        app:layout_constraintTop_toBottomOf="@+id/player_info_row"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        />
+
+    <!-- Piles Row -->
+    <LinearLayout
+        android:id="@+id/piles_row"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        app:layout_constraintTop_toBottomOf="@+id/deck_grid"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="2dp"
+        android:layout_marginEnd="2dp"
+        android:weightSum="4">
+
+        <!-- Discard Pile 1 -->
+        <LinearLayout
+            android:id="@+id/discard_pile1_container"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:layout_marginTop="0dp"
+            android:orientation="vertical">
+
+            <LinearLayout
+                android:id="@+id/discard_pile1_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="0dp">
+                <!-- Cards will be added programmatically -->
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/change_order_button1"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-6dp"
+                android:text="Change Order"
+                android:padding="2dp"
+                android:layout_gravity="center_horizontal"/>
+        </LinearLayout>
+
+    <!-- Draw Pile -->
+    <LinearLayout
+        android:id="@+id/draw_pile_container"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:layout_marginTop="0dp"
+        android:layout_marginStart="2dp"
+        android:layout_marginEnd="2dp">
+
+        <LinearLayout
+            android:id="@+id/draw_pile_layout"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_marginTop="0dp">
+            <!-- Cards will be added programmatically -->
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/cards_left_text"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="-4dp"
+            android:text="Cards left: [n]"
+            android:textColor="@color/white"
+            android:layout_gravity="center_horizontal"/>
+
+    </LinearLayout>
+
+        <!-- Discard Pile 2 -->
+        <LinearLayout
+            android:id="@+id/discard_pile2_container"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginTop="0dp">
+
+            <LinearLayout
+                android:id="@+id/discard_pile2_layout"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_marginTop="0dp">
+                <!-- Cards will be added programmatically -->
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/change_order_button2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="-6dp"
+                android:text="Change Order"
+                android:padding="2dp"
+                android:layout_gravity="center_horizontal"/>
+        </LinearLayout>
+
+        <!-- Hold Pile -->
+        <LinearLayout
+            android:id="@+id/hold_layout"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:orientation="vertical"
+            android:layout_marginTop="0dp"
+            android:layout_marginStart="2dp"
+            android:layout_marginEnd="0dp">
+            <!-- Cards will be added programmatically -->
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Card Selector Container -->
+    <LinearLayout
+        android:id="@+id/card_selector_container"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        app:layout_constraintTop_toBottomOf="@+id/piles_row"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginTop="0dp"
+        android:layout_marginStart="0dp"
+        android:layout_marginEnd="0dp">
+
+        <GridLayout
+            android:id="@+id/card_selector_grid"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:columnCount="6"
+            android:rowCount="3">
+            <!-- Cards will be added programmatically -->
+        </GridLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/button_row"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="0dp"
+        app:layout_constraintTop_toBottomOf="@+id/card_selector_container"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        android:layout_marginStart="16dp"
+        android:layout_marginEnd="16dp"
+        android:gravity="center_horizontal">
+
+        <Button
+            android:id="@+id/previous_turn_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Previous Turn"
+            android:layout_marginEnd="16dp"/>
+
+        <Button
+            android:id="@+id/next_turn_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Next Turn"
+            android:layout_marginEnd="16dp"/>
+
+        <Button
+            android:id="@+id/end_game_button"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="End Game"/>
+
+    </LinearLayout>
+
+
+<!--    <Button-->
+<!--        android:id="@+id/menu_button"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:text="Menu"-->
+<!--        app:layout_constraintBottom_toBottomOf="parent"-->
+<!--        app:layout_constraintStart_toStartOf="parent"-->
+<!--        app:layout_constraintEnd_toEndOf="parent"-->
+<!--        android:layout_marginBottom="16dp"-->
+<!--        />-->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+</ScrollView>

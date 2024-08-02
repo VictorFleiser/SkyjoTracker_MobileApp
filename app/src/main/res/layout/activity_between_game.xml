@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+  <Button
+      android:id="@+id/play_new_game_button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Play new game"
+      android:layout_gravity="center_horizontal"
+      android:layout_marginBottom="16dp"/>
+
+  <Button
+      android:id="@+id/save_game_json_button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Save JSON of Game"
+      android:layout_gravity="center_horizontal"
+      android:layout_marginBottom="16dp"/>
+
+  <Button
+      android:id="@+id/save_session_json_button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Save JSON of Session"
+      android:layout_gravity="center_horizontal"
+      android:layout_marginBottom="16dp"/>
+
+  <Button
+      android:id="@+id/menu_button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Menu"
+      android:layout_gravity="center_horizontal"
+      android:layout_marginBottom="16dp"/>
+
+  <Button
+      android:id="@+id/save_game_to_stats_button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Save Game to Stats"
+      android:layout_gravity="center_horizontal"
+      android:layout_marginBottom="16dp"/>
+
+  <Button
+      android:id="@+id/save_session_to_stats_button"
+      android:layout_width="wrap_content"
+      android:layout_height="wrap_content"
+      android:text="Save Session to Stats"
+      android:layout_gravity="center_horizontal"
+      android:layout_marginBottom="16dp"/>
+
+<!--  <Button-->
+<!--      android:id="@+id/end_session_button"-->
+<!--      android:layout_width="wrap_content"-->
+<!--      android:layout_height="wrap_content"-->
+<!--      android:text="End Session"-->
+<!--      android:layout_gravity="center_horizontal"-->
+<!--      android:layout_marginBottom="16dp"/>-->
+</LinearLayout>

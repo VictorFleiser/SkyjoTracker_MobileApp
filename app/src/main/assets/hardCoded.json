@@ -1,0 +1,2889 @@
+[
+  {
+    "name": "Vic",
+    "sessionStats" : [
+      {
+        "sessionId" : 0,
+        "rank" : 2,
+        "score" : 20,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 1,
+        "rank" : 1,
+        "score" : 25,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 3
+      },
+      {
+        "sessionId" : 2,
+        "rank" : 3,
+        "score" : 89,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 3
+      },
+      {
+        "sessionId" : 3,
+        "rank" : 1,
+        "score" : 39,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 3
+      },
+      {
+        "sessionId" : 4,
+        "rank" : 3,
+        "score" : 78,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 5,
+        "rank" : 1,
+        "score" : 25,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 6,
+        "rank" : 1,
+        "score" : 23,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 7,
+        "rank" : 1,
+        "score" : 50,
+        "numberOfGames" : 4,
+        "numberOfPlayers" : 9
+      },
+      {
+        "sessionId" : 8,
+        "rank" : 7,
+        "score" : 69,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 9,
+        "rank" : 3,
+        "score" : 25,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 10,
+        "rank" : 2,
+        "score" : 34,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 11,
+        "rank" : 2,
+        "score" : 7,
+        "numberOfGames" : 2,
+        "numberOfPlayers" : 5
+      },
+      {
+        "sessionId" : 12,
+        "rank" : 2,
+        "score" : 26,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 0,
+        "gameId": 0,
+        "score": 4,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 1,
+        "score": -1,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 2,
+        "score": 17,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 1,
+        "gameId": 3,
+        "score": 4,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 1,
+        "gameId": 4,
+        "score": 9,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 1,
+        "gameId": 5,
+        "score": 12,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 6,
+        "score": 24,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 7,
+        "score": 21,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 8,
+        "score": 5,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 2,
+        "gameId": 9,
+        "score": 10,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 10,
+        "score": 24,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 11,
+        "score": 7,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 12,
+        "score": 16,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 13,
+        "score": -1,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 14,
+        "score": 7,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 3,
+        "gameId": 15,
+        "score": 3,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 16,
+        "score": 30,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 17,
+        "score": 13,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 4,
+        "gameId": 18,
+        "score": 2,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 19,
+        "score": 6,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 20,
+        "score": 7,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 5,
+        "gameId": 21,
+        "score": 5,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 22,
+        "score": -2,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 23,
+        "score": 22,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 24,
+        "score": 7,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 25,
+        "score": 15,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 26,
+        "score": 1,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 27,
+        "score": 19,
+        "rank": 4,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 28,
+        "score": -3,
+        "rank": 1,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 29,
+        "score": 21,
+        "rank": 6,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 30,
+        "score": 13,
+        "rank": 3,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 31,
+        "score": 10,
+        "rank": 3,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 32,
+        "score": 16,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 33,
+        "score": 43,
+        "rank": 7,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 34,
+        "score": 14,
+        "rank": 3,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 35,
+        "score": 3,
+        "rank": 2,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 36,
+        "score": 4,
+        "rank": 2,
+        "numberOfPlayers": 7,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 10,
+        "gameId": 37,
+        "score": 15,
+        "rank": 7,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 38,
+        "score": 17,
+        "rank": 2,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 39,
+        "score": 2,
+        "rank": 2,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 11,
+        "gameId": 40,
+        "score": 9,
+        "rank": 4,
+        "numberOfPlayers": 5,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 11,
+        "gameId": 41,
+        "score": -2,
+        "rank": 1,
+        "numberOfPlayers": 5,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 42,
+        "score": 13,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 43,
+        "score": 13,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 44,
+        "score": 0,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "And",
+    "sessionStats" : [
+      {
+        "sessionId" : 0,
+        "rank" : 4,
+        "score" : 39,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 4,
+        "rank" : 6,
+        "score" : 115,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 5,
+        "rank" : 5,
+        "score" : 65,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 6,
+        "rank" : 4,
+        "score" : 46,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 7,
+        "rank" : 6,
+        "score" : 82,
+        "numberOfGames" : 4,
+        "numberOfPlayers" : 9
+      },
+      {
+        "sessionId" : 8,
+        "rank" : 2,
+        "score" : 19,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 9,
+        "rank" : 2,
+        "score" : 22,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 10,
+        "rank" : 3,
+        "score" : 35,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 0,
+        "gameId": 0,
+        "score": 5,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 1,
+        "score": 1,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 2,
+        "score": 33,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 16,
+        "score": 31,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 17,
+        "score": 36,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 18,
+        "score": 3,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 19,
+        "score": 12,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 20,
+        "score": 33,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 21,
+        "score": 16,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 22,
+        "score": 10,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 5,
+        "gameId": 23,
+        "score": 29,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 24,
+        "score": 21,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 25,
+        "score": 5,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 26,
+        "score": 20,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 27,
+        "score": 27,
+        "rank": 6,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 28,
+        "score": 6,
+        "rank": 2,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 29,
+        "score": 14,
+        "rank": 3,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 30,
+        "score": 35,
+        "rank": 8,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 31,
+        "score": 11,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 32,
+        "score": 1,
+        "rank": 2,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 33,
+        "score": 7,
+        "rank": 2,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 34,
+        "score": 6,
+        "rank": 2,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 35,
+        "score": 3,
+        "rank": 3,
+        "numberOfPlayers": 7,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 9,
+        "gameId": 36,
+        "score": 10,
+        "rank": 3,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 37,
+        "score": 4,
+        "rank": 2,
+        "numberOfPlayers": 7,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 10,
+        "gameId": 38,
+        "score": 12,
+        "rank": 5,
+        "numberOfPlayers": 7,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 10,
+        "gameId": 39,
+        "score": 3,
+        "rank": 3,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Max",
+    "sessionStats" : [
+      {
+        "sessionId" : 0,
+        "rank" : 5,
+        "score" : 46,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 4,
+        "rank" : 2,
+        "score" : 74,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 5,
+        "rank" : 2,
+        "score" : 32,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 6,
+        "rank" : 2,
+        "score" : 25,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 7,
+        "rank" : 2,
+        "score" : 57,
+        "numberOfGames" : 4,
+        "numberOfPlayers" : 9
+      },
+      {
+        "sessionId" : 8,
+        "rank" : 3,
+        "score" : 34,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 10,
+        "rank" : 1,
+        "score" : 26,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 11,
+        "rank" : 4,
+        "score" : 16,
+        "numberOfGames" : 2,
+        "numberOfPlayers" : 5
+      },
+      {
+        "sessionId" : 12,
+        "rank" : 4,
+        "score" : 44,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 0,
+        "gameId": 0,
+        "score": 3,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 1,
+        "score": 15,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 2,
+        "score": 28,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 16,
+        "score": 18,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 17,
+        "score": 12,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 18,
+        "score": 14,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 19,
+        "score": 19,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 20,
+        "score": 11,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 21,
+        "score": 3,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 5,
+        "gameId": 22,
+        "score": 13,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 23,
+        "score": 13,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 24,
+        "score": 2,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 25,
+        "score": 20,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 26,
+        "score": 3,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 27,
+        "score": 15,
+        "rank": 2,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 28,
+        "score": 8,
+        "rank": 3,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 29,
+        "score": 19,
+        "rank": 5,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 30,
+        "score": 15,
+        "rank": 4,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 31,
+        "score": 9,
+        "rank": 2,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 32,
+        "score": 12,
+        "rank": 3,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 33,
+        "score": 13,
+        "rank": 5,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 37,
+        "score": 14,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 38,
+        "score": 11,
+        "rank": 1,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 39,
+        "score": 1,
+        "rank": 1,
+        "numberOfPlayers": 7,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 11,
+        "gameId": 40,
+        "score": 6,
+        "rank": 2,
+        "numberOfPlayers": 5,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 11,
+        "gameId": 41,
+        "score": 10,
+        "rank": 4,
+        "numberOfPlayers": 5,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 42,
+        "score": 29,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 43,
+        "score": 10,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 44,
+        "score": 5,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Rob",
+    "sessionStats" : [
+      {
+        "sessionId" : 0,
+        "rank" : 1,
+        "score" : 17,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 1,
+        "rank" : 3,
+        "score" : 81,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 3
+      },
+      {
+        "sessionId" : 2,
+        "rank" : 2,
+        "score" : 83,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 3
+      },
+      {
+        "sessionId" : 3,
+        "rank" : 3,
+        "score" : 95,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 3
+      },
+      {
+        "sessionId" : 4,
+        "rank" : 1,
+        "score" : 49,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 5,
+        "rank" : 4,
+        "score" : 40,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 6,
+        "rank" : 6,
+        "score" : 61,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 7,
+        "rank" : 2,
+        "score" : 57,
+        "numberOfGames" : 4,
+        "numberOfPlayers" : 9
+      },
+      {
+        "sessionId" : 8,
+        "rank" : 1,
+        "score" : 18,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 9,
+        "rank" : 4,
+        "score" : 46,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 10,
+        "rank" : 5,
+        "score" : 44,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 0,
+        "gameId": 0,
+        "score": 1,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 1,
+        "score": 3,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 2,
+        "score": 13,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 1,
+        "gameId": 3,
+        "score": 23,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 1,
+        "gameId": 4,
+        "score": 30,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 1,
+        "gameId": 5,
+        "score": 14,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 2,
+        "gameId": 6,
+        "score": 53,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 7,
+        "score": 6,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 8,
+        "score": 5,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 9,
+        "score": 9,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 10,
+        "score": 10,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 11,
+        "score": 17,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 12,
+        "score": 18,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 13,
+        "score": 26,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 14,
+        "score": 15,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 15,
+        "score": 19,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 16,
+        "score": 18,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 17,
+        "score": 18,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 18,
+        "score": 4,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 19,
+        "score": 9,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 20,
+        "score": 0,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 21,
+        "score": 15,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 22,
+        "score": 8,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 23,
+        "score": 17,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 24,
+        "score": 10,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 6,
+        "gameId": 25,
+        "score": 28,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 26,
+        "score": 13,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 27,
+        "score": 0,
+        "rank": 1,
+        "numberOfPlayers": 9,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 28,
+        "score": 12,
+        "rank": 5,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 29,
+        "score": 34,
+        "rank": 8,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 30,
+        "score": 11,
+        "rank": 2,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 31,
+        "score": 5,
+        "rank": 1,
+        "numberOfPlayers": 7,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 32,
+        "score": 0,
+        "rank": 1,
+        "numberOfPlayers": 7,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 33,
+        "score": 13,
+        "rank": 5,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 34,
+        "score": 24,
+        "rank": 7,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 35,
+        "score": 9,
+        "rank": 5,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 36,
+        "score": 13,
+        "rank": 5,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 37,
+        "score": 9,
+        "rank": 3,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 38,
+        "score": 21,
+        "rank": 3,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 39,
+        "score": 14,
+        "rank": 5,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Emi",
+    "sessionStats" : [
+      {
+        "sessionId" : 0,
+        "rank" : 6,
+        "score" : 49,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 1,
+        "rank" : 2,
+        "score" : 48,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 3
+      },
+      {
+        "sessionId" : 2,
+        "rank" : 1,
+        "score" : 71,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 3
+      },
+      {
+        "sessionId" : 3,
+        "rank" : 2,
+        "score" : 69,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 3
+      },
+      {
+        "sessionId" : 4,
+        "rank" : 5,
+        "score" : 112,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 6,
+        "rank" : 3,
+        "score" : 27,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 7,
+        "rank" : 4,
+        "score" : 63,
+        "numberOfGames" : 4,
+        "numberOfPlayers" : 9
+      },
+      {
+        "sessionId" : 8,
+        "rank" : 5,
+        "score" : 47,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 9,
+        "rank" : 6,
+        "score" : 56,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 10,
+        "rank" : 3,
+        "score" : 35,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 0,
+        "gameId": 0,
+        "score": 11,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 0,
+        "gameId": 1,
+        "score": 19,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 2,
+        "score": 8,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 1,
+        "gameId": 3,
+        "score": 9,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 1,
+        "gameId": 4,
+        "score": 24,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 1,
+        "gameId": 5,
+        "score": 15,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 6,
+        "score": 20,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 7,
+        "score": 7,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 8,
+        "score": 12,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 9,
+        "score": 3,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 2,
+        "gameId": 10,
+        "score": 29,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 11,
+        "score": 27,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 12,
+        "score": 0,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 13,
+        "score": 28,
+        "rank": 3,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 14,
+        "score": 4,
+        "rank": 1,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 3,
+        "gameId": 15,
+        "score": 10,
+        "rank": 2,
+        "numberOfPlayers": 3,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 16,
+        "score": 22,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 17,
+        "score": 15,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 18,
+        "score": 25,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 19,
+        "score": 24,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 20,
+        "score": 26,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 24,
+        "score": 6,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 25,
+        "score": 15,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 26,
+        "score": 3,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 7,
+        "gameId": 27,
+        "score": 31,
+        "rank": 8,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 28,
+        "score": 19,
+        "rank": 7,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 29,
+        "score": 6,
+        "rank": 1,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 30,
+        "score": 7,
+        "rank": 1,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 31,
+        "score": 17,
+        "rank": 5,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 32,
+        "score": 18,
+        "rank": 6,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 33,
+        "score": 12,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 34,
+        "score": 23,
+        "rank": 6,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 35,
+        "score": 7,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 36,
+        "score": 26,
+        "rank": 6,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 37,
+        "score": 2,
+        "rank": 1,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 38,
+        "score": 23,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 39,
+        "score": 10,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Ann",
+    "sessionStats" : [
+      {
+        "sessionId" : 0,
+        "rank" : 3,
+        "score" : 25,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 4,
+        "rank" : 3,
+        "score" : 78,
+        "numberOfGames" : 5,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 5,
+        "rank" : 3,
+        "score" : 39,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 7,
+        "rank" : 9,
+        "score" : 125,
+        "numberOfGames" : 4,
+        "numberOfPlayers" : 9
+      },
+      {
+        "sessionId" : 8,
+        "rank" : 4,
+        "score" : 39,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      },
+      {
+        "sessionId" : 10,
+        "rank" : 6,
+        "score" : 87,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 0,
+        "gameId": 0,
+        "score": 3,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 1,
+        "score": 19,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 0,
+        "gameId": 2,
+        "score": 3,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 16,
+        "score": 14,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 17,
+        "score": 8,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 18,
+        "score": 25,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 19,
+        "score": 4,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 4,
+        "gameId": 20,
+        "score": 27,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 21,
+        "score": 8,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 22,
+        "score": 11,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 23,
+        "score": 20,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 27,
+        "score": 21,
+        "rank": 5,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 28,
+        "score": 31,
+        "rank": 9,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 29,
+        "score": 26,
+        "rank": 9,
+        "numberOfPlayers": 9,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 7,
+        "gameId": 30,
+        "score": 21,
+        "rank": 5,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 31,
+        "score": 20,
+        "rank": 7,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 32,
+        "score": 17,
+        "rank": 5,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 33,
+        "score": 2,
+        "rank": 1,
+        "numberOfPlayers": 7,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 37,
+        "score": 14,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 38,
+        "score": 33,
+        "rank": 6,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 39,
+        "score": 40,
+        "rank": 7,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Dor",
+    "sessionStats" : [
+      {
+        "sessionId" : 5,
+        "rank" : 6,
+        "score" : 97,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 6,
+        "rank" : 5,
+        "score" : 58,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      },
+      {
+        "sessionId" : 7,
+        "rank" : 8,
+        "score" : 113,
+        "numberOfGames" : 4,
+        "numberOfPlayers" : 9
+      },
+      {
+        "sessionId" : 10,
+        "rank" : 7,
+        "score" : 97,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 5,
+        "gameId": 21,
+        "score": 2,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 22,
+        "score": 9,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 5,
+        "gameId": 23,
+        "score": 43,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 6,
+        "gameId": 24,
+        "score": 17,
+        "rank": 4,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 25,
+        "score": 3,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 6,
+        "gameId": 26,
+        "score": 38,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 27,
+        "score": 38,
+        "rank": 9,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 28,
+        "score": 11,
+        "rank": 8,
+        "numberOfPlayers": 9,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 7,
+        "gameId": 29,
+        "score": 30,
+        "rank": 7,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 30,
+        "score": 23,
+        "rank": 6,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 37,
+        "score": 14,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 38,
+        "score": 49,
+        "rank": 7,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 10,
+        "gameId": 39,
+        "score": 34,
+        "rank": 6,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Joh",
+    "sessionStats" : [
+      {
+        "sessionId" : 7,
+        "rank" : 7,
+        "score" : 86,
+        "numberOfGames" : 4,
+        "numberOfPlayers" : 9
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 7,
+        "gameId": 27,
+        "score": 16,
+        "rank": 3,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 28,
+        "score": 10,
+        "rank": 4,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 29,
+        "score": 16,
+        "rank": 4,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 30,
+        "score": 44,
+        "rank": 9,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Mar",
+    "sessionStats" : [
+      {
+        "sessionId" : 7,
+        "rank" : 5,
+        "score" : 77,
+        "numberOfGames" : 4,
+        "numberOfPlayers" : 9
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 7,
+        "gameId": 27,
+        "score": 29,
+        "rank": 7,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 28,
+        "score": 14,
+        "rank": 6,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 29,
+        "score": 8,
+        "rank": 2,
+        "numberOfPlayers": 9,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 7,
+        "gameId": 30,
+        "score": 13,
+        "rank": 7,
+        "numberOfPlayers": 9,
+        "firstFinisher": true,
+        "doubleScore": true
+      }
+    ]
+  },
+  {
+    "name": "JP",
+    "sessionStats" : [
+      {
+        "sessionId" : 8,
+        "rank" : 6,
+        "score" : 54,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 8,
+        "gameId": 31,
+        "score": 18,
+        "rank": 6,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 32,
+        "score": 29,
+        "rank": 7,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 8,
+        "gameId": 33,
+        "score": 7,
+        "rank": 2,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Lor",
+    "sessionStats" : [
+      {
+        "sessionId" : 9,
+        "rank" : 7,
+        "score" : 74,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 9,
+        "gameId": 34,
+        "score": 15,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 35,
+        "score": 11,
+        "rank": 6,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 36,
+        "score": 48,
+        "rank": 7,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Gab",
+    "sessionStats" : [
+      {
+        "sessionId" : 9,
+        "rank" : 1,
+        "score" : 1,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 9,
+        "gameId": 34,
+        "score": 0,
+        "rank": 1,
+        "numberOfPlayers": 7,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 35,
+        "score": -1,
+        "rank": 1,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 36,
+        "score": 2,
+        "rank": 1,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Ale",
+    "sessionStats" : [
+      {
+        "sessionId" : 9,
+        "rank" : 5,
+        "score" : 53,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 7
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 9,
+        "gameId": 34,
+        "score": 16,
+        "rank": 5,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 35,
+        "score": 25,
+        "rank": 7,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 9,
+        "gameId": 36,
+        "score": 12,
+        "rank": 4,
+        "numberOfPlayers": 7,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Oct",
+    "sessionStats" : [
+      {
+        "sessionId" : 11,
+        "rank" : 5,
+        "score" : 48,
+        "numberOfGames" : 2,
+        "numberOfPlayers" : 5
+      },
+      {
+        "sessionId" : 12,
+        "rank" : 1,
+        "score" : 4,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 11,
+        "gameId": 40,
+        "score": 28,
+        "rank": 5,
+        "numberOfPlayers": 5,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 11,
+        "gameId": 41,
+        "score": 20,
+        "rank": 5,
+        "numberOfPlayers": 5,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 42,
+        "score": -2,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 43,
+        "score": 4,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 44,
+        "score": 2,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Max2",
+    "sessionStats" : [
+      {
+        "sessionId" : 11,
+        "rank" : 1,
+        "score" : 2,
+        "numberOfGames" : 2,
+        "numberOfPlayers" : 5
+      },
+      {
+        "sessionId" : 12,
+        "rank" : 5,
+        "score" : 54,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 11,
+        "gameId": 40,
+        "score": 4,
+        "rank": 1,
+        "numberOfPlayers": 5,
+        "firstFinisher": true,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 11,
+        "gameId": 41,
+        "score": -1,
+        "rank": 1,
+        "numberOfPlayers": 5,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 12,
+        "gameId": 42,
+        "score": 40,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 43,
+        "score": 6,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 44,
+        "score": 4,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": true
+      }
+    ]
+  },
+  {
+    "name": "Jas",
+    "sessionStats" : [
+      {
+        "sessionId" : 11,
+        "rank" : 3,
+        "score" : 13,
+        "numberOfGames" : 2,
+        "numberOfPlayers" : 5
+      },
+      {
+        "sessionId" : 12,
+        "rank" : 3,
+        "score" : 36,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 11,
+        "gameId": 40,
+        "score": 6,
+        "rank": 2,
+        "numberOfPlayers": 5,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 11,
+        "gameId": 41,
+        "score": 7,
+        "rank": 3,
+        "numberOfPlayers": 5,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 42,
+        "score": 12,
+        "rank": 3,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 43,
+        "score": 27,
+        "rank": 5,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 44,
+        "score": -3,
+        "rank": 1,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  },
+  {
+    "name": "Adr",
+    "sessionStats" : [
+      {
+        "sessionId" : 12,
+        "rank" : 6,
+        "score" : 79,
+        "numberOfGames" : 3,
+        "numberOfPlayers" : 6
+      }
+    ],
+    "games": [
+      {
+        "sessionId": 12,
+        "gameId": 42,
+        "score": 11,
+        "rank": 2,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      },
+      {
+        "sessionId": 12,
+        "gameId": 43,
+        "score": 25,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": true,
+        "doubleScore": true
+      },
+      {
+        "sessionId": 12,
+        "gameId": 44,
+        "score": 18,
+        "rank": 6,
+        "numberOfPlayers": 6,
+        "firstFinisher": false,
+        "doubleScore": false
+      }
+    ]
+  }
+]
